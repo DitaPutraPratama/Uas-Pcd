@@ -1,5 +1,8 @@
 # Kelompok Betafora
 
+**Dosen mata kuliah Pengolahan Citra Digital:**
+- **Ridwan Dwiirawan** Email : ridwan_dwiirawan@udb.ac.id
+
 **Anggota Kelompok:**
 - **Wahyu Adi Pratama** (200103113)
 - **Dika Adi Pratama** (200103091)
